@@ -1,6 +1,6 @@
 *Valentina Arputhasamy*
 
-### Overall Grade: 140/160
+### Overall Grade: 148/160
 
 ### Quality of report: 10/10
 
@@ -20,7 +20,7 @@
 
     Yes
   
-### Completeness, correctness and efficiency of solution: 90/110
+### Completeness, correctness and efficiency of solution: 98/110
 
 - Q1 (Optional, 0/30 bonus pts). 
 
@@ -36,9 +36,9 @@
 
 - Q7 (10/20 pts). Assertion error `-10`.
 
-- Q8 (5/10 pts).  No summary sentence `-5`. Also, run them for the html file.
+- Q8 (8/10 pts).  Run them for the html file. `-2`.
 
-- Q9 (5/10 pts).  No summary sentence `-5`.
+- Q9 (10/10 pts).  
 
 	    
 ### Usage of Git: 10/10
